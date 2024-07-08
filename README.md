@@ -1,3 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/umiNbtyr)
-# cd_sudoku
-Projecto CD 2023/24
+# Trabalho Prático - BD
+
+## Departamento de Electrónica, Telecomunicações e Informática da Universidade de Aveiro
+Curso: Licenciatura em Engenharia Informática  
+Cadeira: Computação Distribuída  
+Ano Letivo: 2022/2023 — 2º ano, 2º Semestre    
+`Nota: 19.8`
