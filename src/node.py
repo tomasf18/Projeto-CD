@@ -180,7 +180,7 @@ class Node:
             if command == "NEW_SUDOKU":
                 sudoku = args["sudoku"]
                 generated_solutions = args["generated_solutions"]
-                self.p2p_network.calculate_work_units(1, sudoku, generated_solutions)
+                self.p2p_network.calculate_work_units(5, sudoku, generated_solutions)
             
             elif command == "WORK_DONE":
                 origin_addr = args["origin_addr"]
