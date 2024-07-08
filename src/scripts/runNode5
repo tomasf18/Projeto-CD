@@ -1,0 +1,2 @@
+#!/bin/bash
+python3 ../node.py -p 8005 -s 7005 -h 0.9 -a 127.0.0.1:7004
