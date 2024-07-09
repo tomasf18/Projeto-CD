@@ -1,4 +1,4 @@
-# Trabalho Prático - BD
+# Trabalho Prático - CD
 
 ## Departamento de Electrónica, Telecomunicações e Informática da Universidade de Aveiro
 Curso: Licenciatura em Engenharia Informática  
